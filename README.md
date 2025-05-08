@@ -11,7 +11,7 @@ Utilizamos o <strong>Mysql Workbranch</strong> para a criação e gerenciamento 
 ![Java](https://github.com/user-attachments/assets/ff8d8e91-7a1e-4394-9143-164fac08656d)
 
 Para a criação de nossa API utilizamos a linguagem <strong>Java</strong> aonde com ela conectamos o banco de dados relacional ao nosso sistema em localhost
-
+<hr>
 
 
 # Framework
