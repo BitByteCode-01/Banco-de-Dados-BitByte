@@ -8,9 +8,10 @@ Utilizamos o <strong>Mysql Workbranch</strong> para a criação e gerenciamento 
 <hr>
 
 # API 
+![Java](https://github.com/user-attachments/assets/ff8d8e91-7a1e-4394-9143-164fac08656d)
+
 Para a criação de nossa API utilizamos a linguagem <strong>Java</strong> aonde com ela conectamos o banco de dados relacional ao nosso sistema em localhost
 
-![image](https://github.com/user-attachments/assets/48bc87e3-29ba-4f3e-8472-3566a903eb90)
 
 
 # Framework
