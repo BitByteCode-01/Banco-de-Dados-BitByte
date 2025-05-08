@@ -15,7 +15,8 @@ Para a criação de nossa API utilizamos a linguagem <strong>Java</strong> aonde
 
 
 # Framework
-Para a melhor recepção dos códigos Java utilizamos o <strong>Spring Framework</strong> aonde criamos as dependecias e realizamos todo o processo desde a criação das 3 pastas a controller, models e a repository até a efetiva conexão com o banco de dados e front end.
+![Spring Boot](https://github.com/user-attachments/assets/626c15bd-210d-4c1b-8715-9a0848e0af8b)
 
-![image](https://github.com/user-attachments/assets/101503c7-e0eb-43be-ba27-b698958dc8f6)
+Para a criação  dos códigos em  Java utilizamos o <strong>Spring Boot</strong> aonde criamos as dependecias e realizamos todo o processo desde a criação das 3 pastas a controller, models e a repository até a efetiva conexão com o banco de dados e front end.
+
  
